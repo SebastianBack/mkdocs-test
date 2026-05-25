@@ -1,9 +1,10 @@
 # Testing MkDocs!
 
 For documentation on testing/deploying yours, visit [mkdocs-material](https://squidfunk.github.io/mkdocs-material/).
+
 (With the provided template, be sure to switch Pages Branch folder to point to "/docs"!)
 
-But here, I'll leave the commands template (for both of us):
+Here, I'll leave the commands template (for both of us):
 
 ## Commands
 
