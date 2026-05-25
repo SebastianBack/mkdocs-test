@@ -1,4 +1,4 @@
 site_name: MkDocs Test
-site_url: https://mydomain.org/mysite
+site_url: https://sebastianback.github.io/mkdocs-test
 theme:
   name: material
